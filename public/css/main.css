@@ -1,0 +1,31 @@
+.search-bar {
+    margin: 10px 0px;
+}
+
+#btn-group-filter {
+    padding: 0px;
+}
+
+.btn-filter{
+    white-space: nowrap
+}
+.item {
+    margin: 5px 0px;
+}
+
+.label-div {
+    align-self: center;
+}
+
+.btn-item-group {
+    text-align: end;
+    padding: 0px;
+}
+
+#s-line {
+    padding: 0px;
+}
+
+#search-line {
+    width: 100%;
+}

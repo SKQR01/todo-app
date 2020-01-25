@@ -1,0 +1,12 @@
+.important{
+    font-weight: bold;
+}
+
+.done{
+    color: blue;
+    background-color: rgba(0, 180, 0, 0.33);
+}
+
+.btn-done{
+    background-color: rgba(0, 180, 0, 0.33);
+}
